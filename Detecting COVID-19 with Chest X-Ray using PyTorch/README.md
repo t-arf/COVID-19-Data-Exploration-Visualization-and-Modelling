@@ -1,7 +1,8 @@
 ## DESCRIPTION
 
 In this project, we will use PyTorch to create and train a ResNet-18 model and apply it to a Chest X-Ray Radiography Dataset.
-## Dataset: Dataset is from COVID-19 Radiography Dataset on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+### Dataset: 
+Dataset is from COVID-19 Radiography Dataset on [Kaggle](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
 We have accomplished it in by completing each task in the project:
 ### TASKS: 
